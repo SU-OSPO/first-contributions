@@ -2,7 +2,7 @@
 
 This project aims to simplify and guide the way beginners make their first open-source contribution. If you are looking to make your first contribution, follow the steps below.
 
-_If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
+_If you're not comfortable with command line, [check out other tutorials using GUI tools.](docs/)_
 
 <img align="right" width="300" src="assets/fork.png" alt="fork the repository" />
 
