@@ -1,6 +1,7 @@
 # Contributors
 - [Will Gearty](https://github.com/willgearty)
 - [Laura Langdon](https://github.com/LauraLangdon)
+- [Priyanka Rajashekar]
 - [Maksim Litskevich](https://github.com/mlitskevich)
 - [Jeewon Oh](https://github.com/ohjeewon)
 - [Marianne Donley](https://github.com/mrdonley)
